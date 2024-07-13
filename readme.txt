@@ -21,16 +21,6 @@ This project is designed to predict the similarity between pairs of questions, s
 - Dataset:
   - Quora Question Pairs (from Kaggle)
 
-### Badges
-
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Flask](https://img.shields.io/badge/Flask-1.1.2-green)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)
-![Transformers](https://img.shields.io/badge/Transformers-4.5.0-blue)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.0.3-orange)
 
 ## Project Overview
 
